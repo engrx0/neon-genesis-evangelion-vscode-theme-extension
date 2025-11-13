@@ -62,11 +62,10 @@
 		// "editorIndentGuide.background": "#f90303",
 		// "editorIndentGuide.activeBackground": "#0680f9",
 
-
 		"actionBar.toggledBackground": "#0078d4",
 
-		"activityBar.foreground": "#D7FF00",
-		"activityBar.inactiveForeground": "#ffffff",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#0078d4",
 		"activityBar.background": "#1d446c",
 		//"activityBar.border": "#1d446c",
 		//"activityBar.activeBorder": "#D7FF00",
