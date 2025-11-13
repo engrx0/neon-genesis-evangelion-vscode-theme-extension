@@ -67,7 +67,7 @@
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#0078d4",
 		"activityBar.background": "#1d446c",
-		//"activityBar.border": "#1d446c",
+		"activityBar.border": "#1d446c",
 		//"activityBar.activeBorder": "#D7FF00",
 		//"activityBar.dropBorder": "#d7d7d7",
 		//"activityBar.activeBackground": null,
@@ -337,6 +337,11 @@
 		"input.border": "#3c3c3c",
 		"input.foreground": "#fbe6e5",
 		"input.placeholderForeground": "#989898",
+
+		"search.resultsInfoForeground": "#cccccca6",
+		"searchEditor.findMatchBackground": "#e60606fb",
+		"searchEditor.textInputBorder": "#f5f5f5",
+		"searchEditor.findMatchBorder": "#3c3c3c",
 
 		// unassigned
 		"badge.background": "#0078d4",
@@ -770,10 +775,7 @@
 		//"scmGraph.historyItemRefColor": "#3794ff",
 		//"scmGraph.historyItemRemoteRefColor": "#b180d7",
 		//"scrollbar.shadow": "#000000",
-
-		//"search.resultsInfoForeground": "#cccccca6",
-		//"searchEditor.findMatchBackground": "#ea5c0038",
-		//"searchEditor.textInputBorder": "#3c3c3c",
+		
 		//"settings.checkboxBackground": "#313131",
 		//"settings.checkboxBorder": "#3c3c3c",
 		//"settings.checkboxForeground": "#cccccc",
@@ -915,7 +917,6 @@
 		//"peekViewEditor.matchHighlightBorder": null,
 		//"radio.inactiveBackground": null,
 		//"radio.inactiveForeground": null,
-		//"searchEditor.findMatchBorder": null,
 		//"selection.background": null,
 		//"sideBarStickyScroll.border": null,
 		//"sideBarTitle.border": null,
