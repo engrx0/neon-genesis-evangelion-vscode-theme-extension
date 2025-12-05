@@ -21,7 +21,7 @@
 
 		"editorCursor.foreground": "#D7FF00",
 		"editorCursor.background": "#D7FF00",
-		"editorWhitespace.foreground": "#1777d7",
+		"editorWhitespace.foreground": "#2a8de2",
 		"editorLineNumber.activeForeground": "#00ff0865",
 		"editorLineNumber.foreground": "#1d446c",
 		"editorLineNumber.dimmedForeground": "#1d446c",
@@ -191,12 +191,12 @@
 		
 		"icon.foreground": "#cccccc",
 		
-		"editorBracketHighlight.foreground1": "#1d446c",
-		"editorBracketHighlight.foreground2": "#1d446c",
-		"editorBracketHighlight.foreground3": "#1d446c",
-		"editorBracketHighlight.foreground4": "#1d446c",
-		"editorBracketHighlight.foreground5": "#1d446c",
-		"editorBracketHighlight.foreground6": "#1d446c",
+		"editorBracketHighlight.foreground1": "#4d83ba",
+		"editorBracketHighlight.foreground2": "#4d83ba",
+		"editorBracketHighlight.foreground3": "#4d83ba",
+		"editorBracketHighlight.foreground4": "#4d83ba",
+		"editorBracketHighlight.foreground5": "#4d83ba",
+		"editorBracketHighlight.foreground6": "#4d83ba",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#ff1212cc",
 
 		"gitDecoration.addedResourceForeground": "#20d420",
@@ -395,7 +395,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#525252",
+				"foreground": "#118d17",
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#f1f1f1"
+				"foreground": "#df4242"
 			}
 		},
 		{
