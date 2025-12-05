@@ -7,7 +7,7 @@
 		"focusBorder": "#03528f",
 		
 		"editor.foreground": "#FAFAFA",
-		"editor.background": "#062851",
+		"editor.background": "#0b2b51",
     	"editor.lineHighlightBackground": "#571a1a",
 		"editor.inactiveSelectionBackground": "#7892ad55",
 		"editor.selectionBackground": "#639ad255",
@@ -395,7 +395,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#118d17",
+				"foreground": "#cc0a0a",
 			}
 		},
 		{
@@ -605,22 +605,22 @@
 		},
 		{
 			"scope": "keyword",
-			"settings": {
-				"foreground": "#2f6a9d"
-			}
-		},
-		{
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#2f6a9d"
-			}
-		},
-		{
-			"scope": "keyword.operator",
-			"settings": {
-				"foreground": "#f1f1f1"
-			}
-		},
+		"settings": {
+					"foreground": "#9b9b9b"
+				}
+			},
+			{
+				"scope": "keyword.control",
+				"settings": {
+					"foreground": "#9b9b9b"
+				}
+			},
+			{
+				"scope": "keyword.operator",
+				"settings": {
+					"foreground": "#9b9b9b"
+				}
+			},
 		{
 			"scope": [
 				"keyword.operator.new",
@@ -635,8 +635,8 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#2f6a9d"
-			}
+					"foreground": "#9b9b9b"
+				}
 		},
 		{
 			"scope": "keyword.other.unit",
@@ -685,7 +685,7 @@
 			"name": "Functions",
 			"scope": ["function", "entity.name.function"],
 			"settings": {
-				"foreground": "#2f6a9d"
+				"foreground": "#f1f1f1"
 			}
 		},
 		{
@@ -742,7 +742,7 @@
 		{
 			"name": "Classes, Types",
 			"scope": ["entity.name.class", "entity.name.type", "support.class"],
-			"settings": {"foreground": "#2f6a9d"}
+			"settings": {"foreground": "#e9ecef"}
 		},
 		{
 			"scope": [
@@ -775,7 +775,7 @@
 		{
 		"name": "Function Arguments",
 		"scope": ["variable.parameter"],
-		"settings": {"foreground": "#1d446c"}
+		"settings": {"foreground": "#4d83ba"}
 		},
 		{
 			"scope": [
@@ -786,7 +786,7 @@
 				"constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f1f1f1"
+				"foreground": "#4d83ba"
 			}
 		},
 		{
@@ -795,7 +795,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#2f6a9d"
+				"foreground": "#5990c8"
 			}
 		},
 		{
