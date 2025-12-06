@@ -5,18 +5,21 @@
 
 ![eva-team](images/eva_gang.jpg "gang")
 
-## EVA Unit-00
-> coming in v0.3.0
+## EVA Unit-00 💙🖤
+
+Code with the intensity and focus of [<span style="color:blue">Rei Ayanami</span>](https://youtu.be/ybIOYGSooPg?si=1itpdKV7T-8WDXG2) with the EVA Unit-00 (エヴァンゲリオン 零号機) color theme
+
+![unit00](images/eva_00_demo.jpeg "unti00")
 
 ## EVA Unit-01 Berserk 💜💚
 
-Develop in [<span style="color:red">BERSERK MODE</span>](https://www.youtube.com/watch?v=-olPXm8oJyw) with this EVA Unit-01 (エヴァンゲリオン初号機) color theme
+Develop in [<span style="color:red">BERSERK MODE</span>](https://www.youtube.com/watch?v=-olPXm8oJyw) with the EVA Unit-01 (エヴァンゲリオン初号機) color theme
 
 ![berserk](images/eva_01_demo.jpg "go berserk")
 
 ## EVA Unit-02 ❤️‍🔥
 
-Honor the [<span style="color:red">death of Asuka and Unit 02</span>](https://www.youtube.com/watch?v=OO-1Yyi5KPY) with this EVA Unit-02 (エヴァンゲリオン弐号機) color theme
+Honor the [<span style="color:red">death of Asuka and Unit 02</span>](https://www.youtube.com/watch?v=OO-1Yyi5KPY) with the EVA Unit-02 (エヴァンゲリオン弐号機) color theme
 
 ![unit02](images/eva_02_demo.jpg "unit02")
 
@@ -25,15 +28,15 @@ Honor the [<span style="color:red">death of Asuka and Unit 02</span>](https://ww
 2. *Settings* > *Extensions* (or `Ctrl+Shift+X`)
 3. Search for `Neon Genesis Evangelion Themes`
 4. Click *Install*
-5. *Settings* > *Themes* > *Color Theme* >  `EVA Unit-01 Berserk` \ `EVA Unit-02`
+5. *Settings* > *Themes* > *Color Theme* >  `EVA Unit-00` \ `EVA Unit-01 Berserk` \ `EVA Unit-02`
 
 ## Issues & Feedback
  
- Suggest changes and fixes on the repository [issues](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/issues) page or reach out directly via any platform listed on my github profile. 
+ Suggest changes and fixes on the repository [issues](https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension/issues) page or reach out directly via any platform listed on my github profile. 
 
  Leave a review on the VS Code theme extension page `^_^`
 
-[change log](https://github.com/engrx0/eva-unit01-berserk-vscode-theme/blob/main/CHANGELOG.md)
+[change log](https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension/blob/main/CHANGELOG.md)
 
 ## License
 
