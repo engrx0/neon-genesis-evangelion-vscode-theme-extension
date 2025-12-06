@@ -4,7 +4,7 @@
   "description": "A \"Neon Genesis Evangelion\" inspired UI theme set with color themes for EVA Unit 00, EVA Unit 01 and EVA Unit 02.",
   "publisher": "engr",
   "license": "MIT",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.93.0"
@@ -25,7 +25,6 @@
     "Evangelion",
     "EVA",
     "red",
-    "orange",
     "purple",
     "green",
     "blue",
