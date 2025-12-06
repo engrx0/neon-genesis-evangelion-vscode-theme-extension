@@ -2,6 +2,10 @@
 
 All notable changes to the "neon-genesis-evangelion-themes" extension are documented here.
 
+## [0.3.0]
+
+- add `EVA Unit-00` color theme 
+
 ## [0.2.0]
 
 - add `EVA Unit-02` color theme 
