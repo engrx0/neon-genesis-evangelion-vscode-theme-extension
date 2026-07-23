@@ -1,7 +1,7 @@
 {
   "name": "neon-genesis-evangelion-themes",
   "displayName": "Neon Genesis Evangelion Themes",
-  "description": "A \"Neon Genesis Evangelion\" inspired UI theme set with color themes for EVA Unit 00, EVA Unit 01 and EVA Unit 02.",
+  "description": "Unofficial high-contrast VS Code color themes inspired by biomechanical mecha interfaces and the palettes of EVA Units 00, 01, and 02.",
   "publisher": "engr",
   "license": "MIT",
   "version": "0.3.0",
@@ -18,6 +18,9 @@
     "themes",
     "dark-theme",
     "color-theme",
+    "mecha",
+    "anime",
+    "biomechanical",
     "Neon Genesis Evangelion",
     "EVA Unit-00",
     "EVA Unit-01",
@@ -34,7 +37,7 @@
     "新世紀エヴァンゲリオン"
   ],
   "galleryBanner": {
-    "color": "#0c0c0c",
+    "color": "#07100c",
     "theme": "dark"
   },
   "author": {
@@ -42,6 +45,7 @@
     "email": "engr.log@gmail.com",
     "url": "https://github.com/engrx0"
   },
+  "homepage": "https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension"
