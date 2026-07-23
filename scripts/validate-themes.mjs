@@ -1,6 +1,19 @@
 import { readFile } from "node:fs/promises";
 
-const manifest = JSON.parse(await readFile("package.json", "utf8"));
+function parseJsonc(source, path) {
+  try {
+    return JSON.parse(
+      source
+        .replace(/\/\*[\s\S]*?\*\//g, "")
+        .replace(/^\s*\/\/.*$/gm, "")
+        .replace(/,\s*([}\]])/g, "$1"),
+    );
+  } catch (error) {
+    throw new Error(`Unable to parse ${path}: ${error.message}`);
+  }
+}
+
+const manifest = parseJsonc(await readFile("package.json", "utf8"), "package.json");
 const themes = manifest?.contributes?.themes;
 
 if (!Array.isArray(themes) || themes.length === 0) {
@@ -21,7 +34,10 @@ for (const theme of themes) {
   labels.add(theme.label);
   paths.add(theme.path);
 
-  const source = JSON.parse(await readFile(theme.path, "utf8"));
+  const source = parseJsonc(
+    await readFile(theme.path, "utf8"),
+    theme.path,
+  );
   if (!source.colors || !Array.isArray(source.tokenColors)) {
     throw new Error(`${theme.path} must define colors and tokenColors`);
   }
