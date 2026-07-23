@@ -3,7 +3,7 @@
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/engr.neon-genesis-evangelion-themes?color=8a5cf5&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=engr.neon-genesis-evangelion-themes)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/engr.neon-genesis-evangelion-themes?color=a6ff4d&label=Installs&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=engr.neon-genesis-evangelion-themes)
 
-An unofficial, fan-made family of high-contrast VS Code themes inspired by the color systems and biomechanical interface energy of *Neon Genesis Evangelion*.
+![Original biomechanical terminal artwork](images/nge-terminal-hero.png)\n\nAn unofficial, fan-made family of high-contrast VS Code themes inspired by the color systems and biomechanical interface energy of *Neon Genesis Evangelion*.
 
 > This extension is an independent fan project. It is not affiliated with, endorsed by, or sponsored by Studio Khara, Gainax, or the owners of the Evangelion franchise. All promotional artwork in this repository is original.
 
