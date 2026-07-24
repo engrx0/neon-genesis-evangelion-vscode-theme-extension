@@ -1,43 +1,48 @@
 # Neon Genesis Evangelion Themes
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/engr.neon-genesis-evangelion-themes?color=blue&style=for-the-badge)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/engr.neon-genesis-evangelion-themes?color=purple&label=Downloads&style=for-the-badge)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/engr.neon-genesis-evangelion-themes?color=8a5cf5&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=engr.neon-genesis-evangelion-themes)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/engr.neon-genesis-evangelion-themes?color=a6ff4d&label=Installs&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=engr.neon-genesis-evangelion-themes)
 
-![eva-team](images/eva_gang.jpg "gang")
+![Original biomechanical terminal artwork](images/nge-terminal-hero.png)\n\nAn unofficial, fan-made family of high-contrast VS Code themes inspired by the color systems and biomechanical interface energy of *Neon Genesis Evangelion*.
 
-## EVA Unit-00 💙🖤
+> This extension is an independent fan project. It is not affiliated with, endorsed by, or sponsored by Studio Khara, Gainax, or the owners of the Evangelion franchise. All promotional artwork in this repository is original.
 
-Code with the intensity and focus of [<span style="color:blue">Rei Ayanami</span>](https://youtu.be/ybIOYGSooPg?si=1itpdKV7T-8WDXG2) with the EVA Unit-00 (エヴァンゲリオン 零号機) color theme
+## Included themes
 
-![unit00](images/eva_00_demo.jpeg "unti00")
+| Theme | Signal profile | Best for |
+|---|---|---|
+| **EVA Unit-00** | cobalt, amber, near-black | cool focus with warm status accents |
+| **EVA Unit-01 Berserk** | deep violet, acid green, black | high-energy contrast and vivid syntax |
+| **EVA Unit-02** | red, orange, graphite | warm alerts and aggressive hierarchy |
 
-## EVA Unit-01 Berserk 💜💚
+## Install
 
-Develop in [<span style="color:red">BERSERK MODE</span>](https://www.youtube.com/watch?v=-olPXm8oJyw) with the EVA Unit-01 (エヴァンゲリオン初号機) color theme
+1. Install and open [Visual Studio Code](https://code.visualstudio.com/).
+2. Open **Extensions** with `Ctrl+Shift+X` or `Cmd+Shift+X`.
+3. Search for **Neon Genesis Evangelion Themes**.
+4. Select **Install**.
+5. Open **Preferences: Color Theme** and choose one of the three EVA themes.
 
-![berserk](images/eva_01_demo.jpg "go berserk")
+[Install from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=engr.neon-genesis-evangelion-themes)
 
-## EVA Unit-02 ❤️‍🔥
+## Design principles
 
-Honor the [<span style="color:red">death of Asuka and Unit 02</span>](https://www.youtube.com/watch?v=OO-1Yyi5KPY) with the EVA Unit-02 (エヴァンゲリオン弐号機) color theme
+- Editor text stays readable during long sessions.
+- Syntax groups remain distinct without turning the editor into rainbow noise.
+- Terminal, diff, diagnostics, and selection states remain easy to recognize.
+- Each palette feels related to its source inspiration while using original promotional presentation.
 
-![unit02](images/eva_02_demo.jpg "unit02")
+## Feedback
 
-## Installation
-1. Install and launch [Visual Studio Code](https://code.visualstudio.com/)
-2. *Settings* > *Extensions* (or `Ctrl+Shift+X`)
-3. Search for `Neon Genesis Evangelion Themes`
-4. Click *Install*
-5. *Settings* > *Themes* > *Color Theme* >  `EVA Unit-00` \ `EVA Unit-01 Berserk` \ `EVA Unit-02`
+Found a color collision or unreadable state? [Open an issue](https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension/issues) and include:
 
-## Issues & Feedback
- 
- Suggest changes and fixes on the repository [issues](https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension/issues) page or reach out directly via any platform listed on my github profile. 
+- theme name;
+- language and syntax token;
+- editor location;
+- screenshot with personal paths, usernames, repository names, and secrets removed.
 
- Leave a review on the VS Code theme extension page `^_^`
-
-[change log](https://github.com/engrx0/neon-genesis-evangelion-vscode-theme-extension/blob/main/CHANGELOG.md)
+See the [changelog](CHANGELOG.md) for release history.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+The extension source is available under the [MIT License](LICENSE). The Evangelion name and related marks belong to their respective owners; the license does not grant rights to third-party intellectual property.
