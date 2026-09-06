@@ -1,5 +1,7 @@
 # Neon Genesis Evangelion Themes
 
+The current release and proposed quality-release direction are documented in [Project direction](docs/project-direction.md).
+
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/engr.neon-genesis-evangelion-themes?color=blue&style=for-the-badge)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/engr.neon-genesis-evangelion-themes?color=purple&label=Downloads&style=for-the-badge)
 
